@@ -1,3 +1,5 @@
+http://www.gabotronics.com/oscilloscopes/oscilloscope-watch.htm
+
 XScopes-Firmware
 ================
 
